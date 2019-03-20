@@ -3,14 +3,14 @@ package me;
 public class MeInfo {
 
 	public static void main(String[] args) {
-		// µ¥ÀÌÅÍ -> ÇÑ ±ÛÀÚ ÀÌ»óÀÇ ¹®ÀÚ
-		// ÀÚ¹ÙÇÁ·Î±×·¥(¹®ÀÚ¿­, String)
-		// ÀÌ¸§, ¼Ò¼Ó, ¹«½¼ °³¹ßÀÚÀÎ°¡¿ä?, ¿¬¶ôÃ³
-		System.out.println("ÃÖÁÖ¿µ");
-		System.out.println("kgitbank");
-		System.out.println("java °³¹ßÀÚ");
-		System.out.println("010-2337-8571");
-		// ÀÚ¹Ù¿¡¼­ÀÇ µ¥ÀÌÅÍ : ¼ıÀÚ(Á¤¼ö-int, ½Ç¼ö-float), ¹®ÀÚ(char), ³í¸®(boolean)
+		// ë°ì´í„° -> í•œ ê¸€ì ì´ìƒì˜ ë¬¸ì
+		// ìë°”í”„ë¡œê·¸ë¨(ë¬¸ìì—´, String)
+		// ì´ë¦„, ì†Œì†, ë¬´ìŠ¨ ê°œë°œìì¸ê°€ìš”?, ì—°ë½ì²˜
+		System.out.println("ìµœì£¼ì˜");
+		System.out.println("Korea");
+		System.out.println("java ê°œë°œì");
+		System.out.println("010-0000-0000");
+		// ìë°”ì—ì„œì˜ ë°ì´í„° : ìˆ«ì(ì •ìˆ˜-int, ì‹¤ìˆ˜-float), ë¬¸ì(char), ë…¼ë¦¬(boolean)
 		
 	}
 
